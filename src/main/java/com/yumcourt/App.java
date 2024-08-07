@@ -1,4 +1,4 @@
-package org.yumcourt;
+package com.yumcourt;
 
 /**
  * Hello world!
