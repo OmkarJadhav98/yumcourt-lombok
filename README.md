@@ -94,6 +94,6 @@ Before begin, ensure you have the following installed:
 -  Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## Contact
-For questions or support, please contact `objadhav28@gmail.com`.
+For questions or support, please contact [objadhav28@gmail.com](mailto:objadhav28@gmail.com).
    ```bash
    This README.md file is tailored for the YumCourt-Lombok project, highlighting the use of Lombok and providing all necessary setup instructions.
